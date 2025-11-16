@@ -50,6 +50,18 @@ Interface moderna e intuitiva com:
 - Botões com animações sutis
 - Sistema de cores consistente
 
+## 🎯 Problema Resolvido
+Empresas que gerenciam funcionários em planilhas Excel ou papel enfrentam:
+
+Perda de dados por falta de backup automático
+Dificuldade para encontrar informações específicas rapidamente
+Erros de digitação e dados duplicados (emails repetidos)
+Impossibilidade de múltiplos usuários acessarem simultaneamente
+Falta de validação de dados (telefones/emails incorretos)
+
+Nossa solução oferece:
+Um sistema web centralizado, com validações automáticas, controle de duplicatas e interface intuitiva, substituindo planilhas e eliminando erros manuais.
+
 ## ⚙️ Configuração
 
 O sistema utiliza PostgreSQL com as seguintes configurações padrão:
